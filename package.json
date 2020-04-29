@@ -1,0 +1,24 @@
+{
+  "name": "react-native-easy-qrcode",
+  "version": "1.0.0",
+  "description": "RN 生成二维码简易实现，不需要借助WebView 画图",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mistletoe5215/react-native-easy-qrcode.git"
+  },
+  "keywords": [
+    "Mistletoe"
+  ],
+  "author": "Mistletoe5215",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "qr.js": "0.0.0",
+    "react": "^16.9.0",
+    "react-native": "^0.61.2"
+  }
+}
