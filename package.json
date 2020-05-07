@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-qrcode",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "RN 生成二维码简易实现，不需要借助WebView 画图",
   "main": "index.js",
   "scripts": {
